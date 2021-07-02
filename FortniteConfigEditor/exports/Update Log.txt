@@ -1,0 +1,33 @@
+https://sites.google.com/site/gdocs2direct/
+
+10/15: Started Researching logic for program
+11/01: Project Created, simple UI made
+11/16: Resolutions textfields set
+11/20: Read Disk
+11/21: Read Disk and copy path
+11/23: Choose Folder UI
+11/24: Research Write to disk and started write to disk method
+11/25: Finished write to disk method and implemented to textfields. Cleaned UI
+
+v0.1 Release(11/25)
+Features:
+-Select different config files
+-Edit resolution and fps cap
+
+v0.2 Release(11/25)
+Features:
+-Cleaner UI
+-Increased speed
+-Disable Mouse Accerlation
+-No Longer forced to input all fields
+-Better Error Descriptions
+-Closes once finished
+-More Information
+
+Bug Fixes:
+-Program Crashes due to non-number input when confirmed
+-Default values crash program
+-UI not being correct
+-Mouse Accerlation being opposite of intended
+
+Planned: Auto-Updater
